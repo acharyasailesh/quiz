@@ -1,0 +1,7 @@
+Quiz programming lanaguage is an app that is developed in java using the concept
+ of inheritance, interface and gui components
+
+program features:
+gui components: The gui components like jRadioButton, 
+JLabel, jframe, buttongroup, textfield are inherited from
+java.awt
